@@ -8,14 +8,14 @@ import os
 
 url = ["https://teddit.net/r/", "https://teddit.zaggy.nl/r/", "https://teddit.namazso.eu/r/"]
 
-query = input("Type your wanted sub: ")
+query = input("Type the Subreddit you want: ")
 
 path = query
 
 try:
 	os.mkdir(path)
 except FileExistsError:
-	print("This user has a folder in your System.")
+	print("Great, this Subreddit already has a folder in your System.")
 
 os.chdir(path)
 
