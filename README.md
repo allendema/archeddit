@@ -42,5 +42,5 @@ Allen 2021
 
 [![License: GNU - GPL 3.0](https://img.shields.io/github/license/allendema/archeddit)](https://github.com/allendema/archeddit/blob/main/LICENSE)
 [![github commits](https://img.shields.io/github/last-commit/allendema/archeddit)](https://github.com/allendema/archeddit/commits/main)
-[![Lines of Code](https://img.shields.io/tokei/lines/github/allendema/archeddit?style=flat-square)](https://github.com/allendema/archeddit/blob/main/SnapScrap.py)
+[![Lines of Code](https://img.shields.io/tokei/lines/github/allendema/archeddit?style=flat-square)](https://github.com/allendema/archeddit/blob/main/archeddit.py)
 
