@@ -21,7 +21,7 @@ $ ./archeddit.py # Running the script.
 Just enter one public Subreddit.
 It saves the media in a Folder with the name of given sub.
 
-Use cases include downloading top [/r/wallpapers](https:teddit.net/r/wallpapers/) or [/r/pizza](https:teddit.net/r/pizza) weekly posts.
+Use cases include downloading top [/r/wallpapers](https://teddit.net/r/wallpapers/) or [/r/pizza](https://teddit.net/r/pizza) weekly posts.
 
 ## Heads Up
 Made by exploring Python. Inspired by similiar programms. Use at own risk.
