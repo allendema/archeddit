@@ -36,7 +36,7 @@ if html.status_code == 200:
 	print("Sucsess")
 	
 else:
-	print("Nicht erfolgreich")
+	print("Connection with the instance was not established!")
 
 
 data = json.loads(html.text)
